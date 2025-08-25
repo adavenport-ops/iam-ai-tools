@@ -1,0 +1,2 @@
+{"eventType": "user.authentication.failed", "client": {"ip": "203.0.113.7"}, "outcome": {"reason": "INVALID_CREDENTIALS"}, "debugContext": {"requestUri": "/api/v1/authn"}}
+{"eventType": "app.oauth2.as.token.audit", "debugContext": {"authProtocol": "OIDC", "oauth2Error": "invalid_grant", "grantType": "authorization_code"}}

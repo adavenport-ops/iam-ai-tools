@@ -1,0 +1,5 @@
+
+# Example config if you later mount a policy directory or S3 bucket
+sources:
+  - path: ./data/sample/policies
+    type: local_dir

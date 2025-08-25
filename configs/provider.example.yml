@@ -1,0 +1,9 @@
+
+provider: ${LLM_PROVIDER}
+openai:
+  model: ${OPENAI_MODEL}
+  base_url: ${OPENAI_BASE_URL}
+  api_key: ${OPENAI_API_KEY}
+http:  # Any OpenAI-compatible server
+  base_url: ${OPENAI_BASE_URL}
+  model: ${OPENAI_MODEL}

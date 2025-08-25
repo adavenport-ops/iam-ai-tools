@@ -1,0 +1,3 @@
+user,group,purpose,signins_30d,app_usage,notes
+alex.d,okta-admins,Administer SSO,2,rare,Only used during vendor cutover in June
+sam.c,finance-readers,Read finance dashboards,14,fair,Quarter-end spike expected

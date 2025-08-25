@@ -1,0 +1,2 @@
+{"requester": "alex.d", "manager": "alexis.l", "resource": "Prod: BigQuery Dataset X", "justification": "Need to run ad-hoc spend analysis for August close", "team": "Finance", "ticket": "ITSD-1234"}
+{"requester": "sam.c", "manager": "rachel.k", "resource": "Okta Admin: Read-only", "justification": "Investigate factor enrollments as part of security review", "team": "Security", "ticket": "ITSD-4567"}
